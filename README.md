@@ -10,10 +10,11 @@ To analyze lead-to-enrollment conversion efficiency across channels and forecast
 ---
 
 ### ⚙️ Tools & Skills
-- Excel – Forecasting & Funnel Modeling  
-- Power BI – Dashboard & KPI Visualization  
-- SQL – Data Aggregation & Filtering  
-- CAC, Conversion Rate, ROI Analysis  
+- **Excel** – Forecasting, Funnel Modeling, Scenario Analysis  
+- **Power BI** – Dashboard Design, KPI Visualization, DAX Measures  
+- **SQL** – Data Aggregation, Filtering, and Query Optimization  
+- **Business Analytics** – CAC, Conversion Rate, ROI, and Performance Metrics  
+- **Data Storytelling** – Translating insights into strategic recommendations 
 
 ---
 
