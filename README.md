@@ -9,13 +9,6 @@ The goal is to predict future enrollments, optimize marketing ROI, and support s
 
 ---
 
-## 🖼️ Dashboard Preview  
-
-![https://github.com/Anuj-Shelly/sales-forecasting-model/blob/main/enrollment%20dashboard.png)  
-*Figure: Sales Forecasting & Revenue Analysis Dashboard built in Power BI*
-
----
-
 ## 🎯 Objectives  
 - Forecast monthly enrollments and revenue with higher accuracy.  
 - Visualize key performance metrics (CAC, Conversion Rate, ROI).  
@@ -36,6 +29,11 @@ The goal is to predict future enrollments, optimize marketing ROI, and support s
 | Forecast_Enrollments | Predicted future enrollments |
 
 Dataset is simulated for demonstration purposes based on EdTech marketing patterns.
+
+
+## 🖼️ Dashboard Preview  
+![Enrollemt Analytics Dashboard](https://github.com/Anuj-Shelly/sales-forecasting-model/blob/main/enrollment%20dashboard.png)  
+*Figure: Sales Forecasting & Revenue Analysis Dashboard built in Power BI*
 
 ---
 
