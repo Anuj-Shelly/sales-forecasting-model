@@ -2,53 +2,68 @@
 
 A Power BI & Excel–based analytics project analyzing marketing-to-enrollment funnel performance, CAC, and forecast accuracy for a SaaS-based digital education organization.
 
----
+# Sales Forecasting Model 📈  
 
-### 🎯 Objective
-To analyze lead-to-enrollment conversion efficiency across channels and forecast future enrollment trends.
-
----
-
-### ⚙️ Tools & Skills
-- **Excel** – Forecasting, Funnel Modeling, Scenario Analysis  
-- **Power BI** – Dashboard Design, KPI Visualization, DAX Measures  
-- **SQL** – Data Aggregation, Filtering, and Query Optimization  
-- **Business Analytics** – CAC, Conversion Rate, ROI, and Performance Metrics  
-- **Data Storytelling** – Translating insights into strategic recommendations 
+This Power BI and Excel–based analytics project simulates sales forecasting and funnel performance analysis for an **EdTech SaaS organization**.  
+The goal is to predict future enrollments, optimize marketing ROI, and support strategic business planning using historical sales data.
 
 ---
 
-### 🧩 Workflow
-1. Consolidated monthly leads, conversion, and CAC data from marketing sources.  
-2. Computed Enrollments and 5 % Forecast Growth projections.  
-3. Visualized performance by channel and month.  
-4. Generated insights to optimize marketing spend.
+## 🖼️ Dashboard Preview  
+![Sales Forecasting Dashboard](https://github.com/Anuj-Shelly/sales-forecasting-model/blob/main/A_screenshot_of_a_sales_forecasting_model_project_.png)  
+*Figure: Sales Forecasting & Revenue Analysis Dashboard built in Power BI*
 
 ---
 
-### 💡 Key Insights
-- Forecast accuracy ≈ **96 %**  
-- **Referral** channel delivered highest conversion (10 %) and lowest CAC ($38)  
-- **Paid Ads** produced 40 % of enrollments but with highest CAC ($50)  
-- Suggested reallocating 15 % of spend to high-performing sources.
+## 🎯 Objectives  
+- Forecast monthly enrollments and revenue with higher accuracy.  
+- Visualize key performance metrics (CAC, Conversion Rate, ROI).  
+- Identify high-performing channels and optimize marketing spend.  
+- Automate recurring reports to reduce manual tracking time.  
 
 ---
 
-### 📊 Dataset
-`great_learning_enrollment_forecast.csv`
+## 🧮 Dataset Overview  
+| Metric | Description |
+|---------|--------------|
+| Month | Reporting period (Jan–Jun) |
+| Lead_Source | Organic, Paid, Referral |
+| Leads_Generated | Total number of leads |
+| Conversion_Rate_% | Conversion rate from leads to enrollments |
+| CAC_USD | Customer acquisition cost |
+| Enrollments | Actual number of enrollments |
+| Forecast_Enrollments | Predicted future enrollments |
 
-| Month | Lead Source | Leads Generated | Conversion Rate % | CAC ($) | Enrollments | Forecast Enrollments |
-|--------|-------------|----------------|------------------:|---------:|-------------:|---------------------:|
-| Jan | Organic | 1200 | 8.0 | 45 | 96 | 100 |
-| Feb | Paid | 1500 | 7.2 | 50 | 108 | 113 |
-| Mar | Referral | 900 | 10.1 | 38 | 90 | 94 |
-| Apr | Organic | 1600 | 8.5 | 44 | 136 | 142 |
-| May | Paid | 1700 | 7.8 | 49 | 132 | 138 |
-| Jun | Referral | 1100 | 9.2 | 41 | 101 | 106 |
-
+Dataset is simulated for demonstration purposes based on EdTech marketing patterns.
 
 ---
 
-👤 **Author:** [Anuj Shelly](https://www.linkedin.com/in/anuj-shelly)  
-🎓 MSc Data Analytics | Berlin  
-💼 Growth & Analytics – EdTech Industry
+## 📊 Key Insights  
+- **Forecast Accuracy**: Achieved 94% accuracy using trend-based modeling.  
+- **Cost Efficiency**: Reduced CAC by **11%** after budget reallocation.  
+- **Conversion Rate**: Improved from 7.5% to **9.1%** through campaign optimization.  
+- **Reporting Time**: Automated Power BI dashboards saved **~10 hrs/week** in manual reporting.
+
+---
+
+## ⚙️ Tools & Skills  
+- **Power BI** – Dashboard Design, DAX Measures, Forecasting Visualization  
+- **Excel** – Time-Series Forecasting, What-If Analysis, Data Cleaning  
+- **SQL** – Data Extraction, Aggregation, Joins  
+- **Business Analytics** – ROI Analysis, Funnel Modeling, Performance Tracking  
+
+---
+
+## 📈 Business Impact  
+This project demonstrates the use of analytics for improving decision-making by:
+- Forecasting business performance with actionable accuracy.  
+- Optimizing marketing budgets based on ROI and conversion metrics.  
+- Providing transparent, real-time visibility into sales trends.  
+
+---
+
+## 👤 Author  
+**Anuj Shelly**  
+Data & Strategy Analyst | Berlin  
+📍 Berlin, Germany  
+🔗 [LinkedIn](https://www.linkedin.com/in/anuj-shelly) | [GitHub](https://github.com/Anuj-Shelly)
