@@ -10,7 +10,8 @@ The goal is to predict future enrollments, optimize marketing ROI, and support s
 ---
 
 ## 🖼️ Dashboard Preview  
-![Sales Forecasting Dashboard](https://github.com/Anuj-Shelly/sales-forecasting-model/blob/main/A_screenshot_of_a_sales_forecasting_model_project_.png)  
+
+![https://github.com/Anuj-Shelly/sales-forecasting-model/blob/main/enrollment%20dashboard.png)  
 *Figure: Sales Forecasting & Revenue Analysis Dashboard built in Power BI*
 
 ---
