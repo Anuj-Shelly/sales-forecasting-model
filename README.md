@@ -46,10 +46,6 @@ To analyze lead-to-enrollment conversion efficiency across channels and forecast
 | May | Paid | 1700 | 7.8 | 49 | 132 | 138 |
 | Jun | Referral | 1100 | 9.2 | 41 | 101 | 106 |
 
----
-
-### 📷 Dashboard Preview
-![Dashboard](visuals/great_learning_dashboard.png)
 
 ---
 
